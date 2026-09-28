@@ -1,2 +1,2 @@
 # Dreams-Garden-Decoration-And-Swimming-Pool
-“Dreams Garden Decoration &amp; Swimming Pool” is a personal website of our client where they provide their Garden and Pool services. In this website user will get information about their Garden and Swimming Pool services.
+Dreams Garden Decoration & Swimming Pool is a personal website that provides information about our client’s garden decoration and swimming pool services. Users can learn more about the services offered through the website.
